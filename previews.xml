@@ -1,0 +1,363 @@
+<previews>
+	<preview element="sldAA" split="0">
+		<images value="0">
+			<img type="0">msaa_0.jpg</img>
+		</images>
+		<images value="1">
+			<img type="0">msaa_2.jpg</img>
+		</images>
+		<images value="2">
+			<img type="0">msaa_4.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">msaa_8.jpg</img>
+		</images>
+	</preview>
+	<preview element="ckbTransAA" split="1">
+		<images value_min="0" value_max="1">
+			<img type="0">tsaa_0.jpg</img>
+			<img type="1">tsaa_1.jpg</img>
+		</images>
+	</preview>	
+	<preview element="ckbDOF" split="1">
+		<images value_min="0" value_max="1">
+			<img type="0">dof_0.jpg</img>
+			<img type="1">dof_1.jpg</img>
+		</images>
+	</preview>	
+	<preview element="ckbVSync" split="1">
+		<images value_min="0" value_max="1">
+			<img type="0">vsync_0.jpg</img>
+			<img type="1">vsync_1.jpg</img>
+		</images>
+	</preview>	
+	<preview element="sldTexFilter" split="0">
+		<images value="0">
+			<img type="0">af_0.jpg</img>
+		</images>
+		<images value="1">
+			<img type="0">af_2.jpg</img>
+		</images>
+		<images value="2">
+			<img type="0">af_4.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">af_8.jpg</img>
+		</images>
+		<images value="4">
+			<img type="0">af_16.jpg</img>
+		</images>
+	</preview>	
+	<preview element="cmbTexQual" split="1">
+		<images value="0">
+			<img type="0">tex_vl_a.jpg</img>
+			<img type="1">tex_vl_b.jpg</img>
+		</images>
+		<images value="1">
+			<img type="0">tex_l_a.jpg</img>
+			<img type="1">tex_l_b.jpg</img>
+		</images>
+		<images value="2">
+			<img type="0">tex_m_a.jpg</img>
+			<img type="1">tex_m_b.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">tex_h_a.jpg</img>
+			<img type="1">tex_h_b.jpg</img>
+		</images>
+		<images value="4">
+			<img type="0">tex_vh_a.jpg</img>
+			<img type="1">tex_vh_b.jpg</img>
+		</images>
+	</preview>	
+	<preview element="spnShadowBias" split="1">
+		<images value_min="0" value_max="99">
+			<img type="0">shadows/shadow_bias_0_0a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_0b.jpg</img>
+		</images>
+		<images value_min="100" value_max="199">
+			<img type="0">shadows/shadow_bias_0_1a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_1b.jpg</img>
+		</images>
+		<images value_min="200" value_max="299">
+			<img type="0">shadows/shadow_bias_0_2a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_2b.jpg</img>
+		</images>
+		<images value_min="300" value_max="399">
+			<img type="0">shadows/shadow_bias_0_3a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_3b.jpg</img>
+		</images>
+		<images value_min="400" value_max="499">
+			<img type="0">shadows/shadow_bias_0_4a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_4b.jpg</img>
+		</images>
+		<images value_min="500" value_max="599">
+			<img type="0">shadows/shadow_bias_0_5a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_5b.jpg</img>
+		</images>
+		<images value_min="600" value_max="699">
+			<img type="0">shadows/shadow_bias_0_6a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_6b.jpg</img>
+		</images>
+		<images value_min="700" value_max="799">
+			<img type="0">shadows/shadow_bias_0_7a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_7b.jpg</img>
+		</images>
+		<images value_min="800" value_max="899">
+			<img type="0">shadows/shadow_bias_0_8a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_8b.jpg</img>
+		</images>
+		<images value_min="900" value_max="999">
+			<img type="0">shadows/shadow_bias_0_9a.jpg</img>
+			<img type="1">shadows/shadow_bias_0_9b.jpg</img>
+		</images>
+		<images value_min="1000" value_max="1000">
+			<img type="0">shadows/shadow_bias_1_0a.jpg</img>
+			<img type="1">shadows/shadow_bias_1_0b.jpg</img>
+		</images>
+	</preview>
+	<preview element="cmbShadowRes" split="0">
+		<images value="0">
+			<img type="0">shadows/shadow_256.jpg</img>
+		</images>
+		<images value="1">
+			<img type="0">shadows/shadow_512.jpg</img>
+		</images>
+		<images value="2">
+			<img type="0">shadows/shadow_1024.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">shadows/shadow_2048.jpg</img>
+		</images>
+		<images value="4">
+			<img type="0">shadows/shadow_4096.jpg</img>
+		</images>
+		<images value="5">
+			<img type="0">shadows/shadow_8192.jpg</img>
+		</images>
+	</preview>	
+	<preview element="cmbShadowFilter" split="0">
+		<images value="0">
+			<img type="0">shadows/shadow_filter_low.jpg</img>
+		</images>
+		<images value="1">
+			<img type="0">shadows/shadow_filter_medium.jpg</img>
+		</images>
+		<images value="2">
+			<img type="0">shadows/shadow_filter_high.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">shadows/shadow_filter_ultra.jpg</img>
+		</images>
+	</preview>	
+	<preview element="sldShadowBlur" split="0">
+		<images value="0">
+			<img type="0">shadows/shadow_blur_1.jpg</img>
+		</images>
+		<images value="1">
+			<img type="0">shadows/shadow_blur_1.jpg</img>
+		</images>
+		<images value="2">
+			<img type="0">shadows/shadow_blur_2.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">shadows/shadow_blur_3.jpg</img>
+		</images>
+		<images value="4">
+			<img type="0">shadows/shadow_blur_4.jpg</img>
+		</images>
+		<images value="5">
+			<img type="0">shadows/shadow_blur_5.jpg</img>
+		</images>
+		<images value="6">
+			<img type="0">shadows/shadow_blur_6.jpg</img>
+		</images>
+		<images value="7">
+			<img type="0">shadows/shadow_blur_7.jpg</img>
+		</images>
+		<images value="8">
+			<img type="0">shadows/shadow_blur_8.jpg</img>
+		</images>
+		<images value="9">
+			<img type="0">shadows/shadow_blur_9.jpg</img>
+		</images>
+		<images value="10">
+			<img type="0">shadows/shadow_blur_10.jpg</img>
+		</images>
+	</preview>	
+	<preview element="sldShadowMaskQuarter" split="1">
+		<images value="0">
+			<img type="0">shadows/shadow_maskq_0a.jpg</img>
+			<img type="1">shadows/shadow_maskq_0b.jpg</img>
+		</images>
+		<images value="1">
+			<img type="0">shadows/shadow_maskq_1a.jpg</img>
+			<img type="1">shadows/shadow_maskq_1b.jpg</img>
+		</images>
+		<images value="2">
+			<img type="0">shadows/shadow_maskq_2a.jpg</img>
+			<img type="1">shadows/shadow_maskq_2b.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">shadows/shadow_maskq_3a.jpg</img>
+			<img type="1">shadows/shadow_maskq_3b.jpg</img>
+		</images>
+		<images value="4">
+			<img type="0">shadows/shadow_maskq_4a.jpg</img>
+			<img type="1">shadows/shadow_maskq_4b.jpg</img>
+		</images>
+		<images value="5">
+			<img type="0">shadows/shadow_maskq_5a.jpg</img>
+			<img type="1">shadows/shadow_maskq_5b.jpg</img>
+		</images>
+		<images value="6">
+			<img type="0">shadows/shadow_maskq_6a.jpg</img>
+			<img type="1">shadows/shadow_maskq_6b.jpg</img>
+		</images>
+		<images value="7">
+			<img type="0">shadows/shadow_maskq_7a.jpg</img>
+			<img type="1">shadows/shadow_maskq_7b.jpg</img>
+		</images>
+		<images value="8">
+			<img type="0">shadows/shadow_maskq_8a.jpg</img>
+			<img type="1">shadows/shadow_maskq_8b.jpg</img>
+		</images>
+		<images value="9">
+			<img type="0">shadows/shadow_maskq_9a.jpg</img>
+			<img type="1">shadows/shadow_maskq_9b.jpg</img>
+		</images>
+		<images value="10">
+			<img type="0">shadows/shadow_maskq_10a.jpg</img>
+			<img type="1">shadows/shadow_maskq_10b.jpg</img>
+		</images>
+	</preview>
+	<preview element="spnShadowDistExt" split="1">
+		<images value_min="0" value_max="999">
+			<img type="0">shadows/shadow_dist_0a.jpg</img>
+			<img type="1">shadows/shadow_dist_0b.jpg</img>
+		</images>
+		<images value_min="1000" value_max="1999">
+			<img type="0">shadows/shadow_dist_1000a.jpg</img>
+			<img type="1">shadows/shadow_dist_1000b.jpg</img>
+		</images>
+		<images value_min="2000" value_max="3999">
+			<img type="0">shadows/shadow_dist_2000a.jpg</img>
+			<img type="1">shadows/shadow_dist_2000b.jpg</img>
+		</images>
+		<images value_min="4000" value_max="7999">
+			<img type="0">shadows/shadow_dist_4000a.jpg</img>
+			<img type="1">shadows/shadow_dist_4000b.jpg</img>
+		</images>
+		<images value_min="8000" value_max="9999">
+			<img type="0">shadows/shadow_dist_8000a.jpg</img>
+			<img type="1">shadows/shadow_dist_8000b.jpg</img>
+		</images>
+		<images value_min="10000" value_max="10000">
+			<img type="0">shadows/shadow_dist_10000a.jpg</img>
+			<img type="1">shadows/shadow_dist_10000b.jpg</img>
+		</images>
+	</preview>	
+	<preview element="ckbTreeShadows" split="1">
+		<images value_min="0" value_max="1">
+			<img type="0">shadows/shadow_tree_0.jpg</img>
+			<img type="1">shadows/shadow_tree_1.jpg</img>
+		</images>
+	</preview>	
+	<preview element="ckbLandShadows" split="1">
+		<images value_min="0" value_max="1">
+			<img type="0">shadows/shadow_land_0.jpg</img>
+			<img type="1">shadows/shadow_land_1.jpg</img>
+		</images>
+	</preview>	
+	<preview element="cmbShadowQuality_simple" split="1">
+		<images value="0">
+			<img type="0">shadows/shadow_qlty_0a.jpg</img>
+			<img type="1">shadows/shadow_qlty_0b.jpg</img>
+		</images>
+		<images value="1">
+			<img type="0">shadows/shadow_qlty_1a.jpg</img>
+			<img type="1">shadows/shadow_qlty_1b.jpg</img>
+		</images>
+		<images value="2">
+			<img type="0">shadows/shadow_qlty_2a.jpg</img>
+			<img type="1">shadows/shadow_qlty_2b.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">shadows/shadow_qlty_3a.jpg</img>
+			<img type="1">shadows/shadow_qlty_3b.jpg</img>
+		</images>
+		<images value="4">
+			<img type="0">shadows/shadow_qlty_4a.jpg</img>
+			<img type="1">shadows/shadow_qlty_4b.jpg</img>
+		</images>
+		<images value="5">
+			<img type="0">shadows/shadow_qlty_5a.jpg</img>
+			<img type="1">shadows/shadow_qlty_5b.jpg</img>
+		</images>
+	</preview>
+	<preview element="sldGrids" split="0">
+		<images value="2">
+			<img type="0">models/grids/ugrid_3.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">models/grids/ugrid_5.jpg</img>
+		</images>
+		<images value="4">
+			<img type="0">models/grids/ugrid_7.jpg</img>
+		</images>
+		<images value="5">
+			<img type="0">models/grids/ugrid_9.jpg</img>
+		</images>
+		<images value="6">
+			<img type="0">models/grids/ugrid_11.jpg</img>
+		</images>
+	</preview>	
+	<preview element="sldGrassDensi" split="0">
+		<images value_min="0" value_max="39">
+			<img type="0">models/grass/grassdens_20.jpg</img>
+		</images>
+		<images value_min="40" value_max="79">
+			<img type="0">models/grass/grassdens_40.jpg</img>
+		</images>
+		<images value_min="80" value_max="100">
+			<img type="0">models/grass/grassdens_80.jpg</img>
+		</images>
+	</preview>
+	<preview element="spnTreeLoadDistance" split="0">
+		<images value_min="0" value_max="9999">
+			<img type="0">models/trees/trees_1000.jpg</img>
+		</images>
+		<images value_min="10000" value_max="49000">
+			<img type="0">models/trees/trees_10000.jpg</img>
+		</images>
+		<images value_min="50000" value_max="99000">
+			<img type="0">models/trees/trees_50000.jpg</img>
+		</images>
+		<images value_min="100000" value_max="249000">
+			<img type="0">models/trees/trees_100000.jpg</img>
+		</images>
+		<images value_min="250000" value_max="250000">
+			<img type="0">models/trees/trees_500000.jpg</img>
+		</images>
+	</preview>
+	<preview element="cmbWaterRes" split="0">
+		<images value="0">
+			<img type="0">water/water_res_256.jpg</img>
+		</images>
+		<images value="1">
+			<img type="0">water/water_res_512.jpg</img>
+		</images>
+		<images value="2">
+			<img type="0">water/water_res_1024.jpg</img>
+		</images>
+		<images value="3">
+			<img type="0">water/water_res_2048.jpg</img>
+		</images>
+		<images value="4">
+			<img type="0">water/water_res_4096.jpg</img>
+		</images>
+		<images value="5">
+			<img type="0">water/water_res_8192.jpg</img>
+		</images>
+	</preview>		
+</previews>
